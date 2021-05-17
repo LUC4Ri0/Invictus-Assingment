@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# [Invictus-Task](https://invictus.in/software-internship-mern-react-native/)
+
+Task Assigned By Board Infinity 
+![](/project.png) 
+
+## USAGE
+
+### How to Post Data
+
+#### i) User Can use Postman or any Other tool to Post Data.
+#### ii) Use Form to Add Task 
+
+### What are the Table Parameters?
+
+| Parameter  | Description                                                                                                                  |
+|------------|------------------------------------------------------------------------------------------------------------------------------|
+| "S.No"     | Should contain the Task Serial Number                                                                      |
+| "Word"     | Word Name |
+| "Frequency"    | Frequency Of Words|                             
+
+
+## Technology Used
+This Project is Created using  React.Js.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -64,6 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Thank You
 
 ### `npm run build` fails to minify
 
