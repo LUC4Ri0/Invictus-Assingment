@@ -3,12 +3,6 @@
 Task Assigned By Board Infinity 
 ![](/project.png) 
 
-## USAGE
-
-### How to Post Data
-
-#### i) User Can use Postman or any Other tool to Post Data.
-#### ii) Use Form to Add Task 
 
 ### What are the Table Parameters?
 
@@ -21,6 +15,13 @@ Task Assigned By Board Infinity
 
 ## Technology Used
 This Project is Created using  React.Js.
+
+## Project Structure
+
+#### Fetch Function is used to fetch the text from the api link
+#### used map to store the frequency of word.
+#### using for loop, table is created.
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
