@@ -2,7 +2,7 @@
 
 ## Live Link --> https://invictus-task.herokuapp.com/
 
-Task Assigned By Board Infinity 
+Task Assigned By Invictus
 ![](/project.png) 
 
 
