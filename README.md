@@ -18,9 +18,9 @@ This Project is Created using  React.Js.
 
 ## Project Structure
 
-#### Fetch Function is used to fetch the text from the api link
-#### used map to store the frequency of word.
-#### using for loop, table is created.
+#### `Fetch` Function is used to fetch the text from the api link
+#### used `map` to store the frequency of word.
+#### using `for loop`, table is created.
 
 
 
